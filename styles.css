@@ -6,3 +6,14 @@ h1 {
 	text-align: left;
 	color: goldenrod;
 }
+.projects { 
+	display:flex;
+	flex-wrap:wrap;
+} 
+.project {
+	width: 30%;
+	margin: 10px;
+	padding: 20px 10px;
+	background: grey;
+	border-radius: 25%;
+}
